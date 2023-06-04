@@ -1,0 +1,1 @@
+select *personas1 from personas
