@@ -1,3 +1,5 @@
 .ssh/
 SolucionErroresGit
 
+/JavaApplication1/nbproject/private/
+/Sql_Server/nbproject/private/
